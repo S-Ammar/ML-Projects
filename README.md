@@ -1,4 +1,4 @@
-# Image classification model for buildings, streets, forests, sea and glaciers
+# [Image classification model for buildings, streets, forests, sea and glaciers](https://github.com/S-Ammar/Image-classification-model-for-buildings-streets-forests-sea-and-glaciers)
 
 ### Initiating the necessary imports
 
